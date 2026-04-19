@@ -1,5 +1,6 @@
 ## Hotel Performance Analysis based on Agoda Reviews
 
+## Summary of Problems(16)
 1. Remote Location and Transport Issues (2)
 
 - Hotel located far from town proper
