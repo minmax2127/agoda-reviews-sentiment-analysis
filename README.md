@@ -1,7 +1,3 @@
-Here’s a polished, recruiter-ready README you can use:
-
----
-
 # 🏨 Hotel Reviews Analysis (Agoda Data)
 
 A data-driven exploration of customer sentiment and experience using Agoda hotel reviews. This project combines natural language processing (NLP) techniques with machine learning to uncover what guests truly think—highlighting strengths, exposing weaknesses, and translating insights into actionable business recommendations.
