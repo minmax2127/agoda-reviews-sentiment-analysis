@@ -1,17 +1,18 @@
-# 🏨 Hotel Reviews Analysis (Agoda Data)
+# 🏨 Hotel Reviews Analysis (Airbnb data)
 
-A data-driven exploration of customer sentiment and experience using Agoda hotel reviews. This project combines natural language processing (NLP) techniques with machine learning to uncover what guests truly think—highlighting strengths, exposing weaknesses, and translating insights into actionable business recommendations.
+A data-driven exploration of customer sentiment and experience using Airbnb hotel reviews. This project combines natural language processing (NLP) techniques with machine learning to uncover what guests truly think—highlighting strengths, exposing weaknesses, and translating insights into actionable business recommendations.
 
 ---
 
 ## 📌 Overview
 
-Understanding customer feedback at scale is critical in the hospitality industry. This project analyzes thousands of Agoda reviews to:
+Understanding customer feedback at scale is critical in the hospitality industry. This project analyzes thousands of Airbnb reviews to:
 
 * Measure overall customer sentiment
 * Identify recurring themes in feedback
 * Surface key drivers of satisfaction and dissatisfaction
 * Generate actionable insights for business improvement
+
 
 The output includes visualizations, statistical summaries, and an automated markdown report outlining findings and recommendations.
 
@@ -68,7 +69,6 @@ Groups similar reviews together based on textual patterns.
   * Key issues
   * Strengths
   * Recommendations
-
 ---
 
 ## 💡 Business Value
@@ -104,7 +104,7 @@ This project goes beyond analysis—it provides **decision-ready insights**:
 ## 🚀 How It Works
 
 1. **Data Collection**
-   Import Agoda review dataset
+   Import Airbnb review dataset
 
 2. **Preprocessing**
 

@@ -1,65 +1,72 @@
 ## Hotel Performance Analysis based on Agoda Reviews
 
 ## Summary of Problems(16)
-1. Remote Location and Transport Issues (2)
+**1. Remote Location and Transport Issues (2)**
 
-- Hotel located far from town proper
-- Difficulty in hailing taxis or tricycles to town proper
-2. Front Desk Service Issues (3)
+    - Hotel located far from town proper
+    - Difficulty in hailing taxis or tricycles to town proper
+**2. Front Desk Service Issues (3)**
 
-- Lack of front desk staff knowledge about room assignments
-- Rude and unhelpful behavior of front desk staff
-- Front desk being unattended during nighttime
-3. Room Amenities and Security Issues (15)
+    - Lack of front desk staff knowledge about room assignments
+    - Rude and unhelpful behavior of front desk staff
+    - Front desk being unattended during nighttime
+**3. Room Amenities and Security Issues (15)**
 
-- Insufficient room amenities (pillows, table, glasses, plates)
-- Noise disturbances affecting sleep (street noise, motorcycle noise)
-- Security concerns (lack of security cameras, no security guard on duty)
-- Room comfort and usability issues (thin mattress, difficult shower knob, problematic for shorter guests)
-- Connectivity inconvenience (wifi credentials expiring every 24 hours)
-- Poor host responsiveness and communication (unresponsive host, vague and sarcastic responses)
-4. Hotel Experience Issues (2)
+    - Insufficient room amenities (pillows, table, glasses, plates)
+    - Noise disturbances affecting sleep (street noise, motorcycle noise)
+    - Security concerns (lack of security cameras, no security guard on duty)
+    - Room comfort and usability issues (thin mattress, difficult shower knob, problematic for shorter guests)
+    - Connectivity inconvenience (wifi credentials expiring every 24 hours)
+    - Poor host responsiveness and communication (unresponsive host, vague and sarcastic responses)
+**4. Hotel Experience Issues (2)**
 
-- Poor sound insulation causing noise disturbances
-- Poor communication between staff and guests
-5. WiFi Access Issues (1)
+    - Poor sound insulation causing noise disturbances
+    - Poor communication between staff and guests
+**5. WiFi Access Issues (1)**
 
-- WiFi password not provided at check-in
-6. Safety Issues (1)
+    - WiFi password not provided at check-in
+**6. Safety Issues (1)**
 
-- Safety concerns
-7. Room Cleanliness and Maintenance (1)
+    - Safety concerns
+**7. Room Cleanliness and Maintenance (1)**
 
-- Damaged bedding or linens
-8. Local Transportation Issues (1)
+    - Damaged bedding or linens
+**8. Local Transportation Issues (1)**
 
-- Driver unfamiliarity with hotel location
-9. Bathroom Comfort Issues (1)
+    - Driver unfamiliarity with hotel location
+**9. Bathroom Comfort Issues (1)**
 
-- Difficulty adjusting shower temperature
-10. Payment Process Issues (1)
+    - Difficulty adjusting shower temperature
+**10. Payment Process Issues (1)**
 
-- Payment collected at night before checkout
-11. Room Comfort Issues (1)
+    - Payment collected at night before checkout
+**11. Room Comfort Issues (1)**
 
-- Bed size smaller than expected
-12. Poor WiFi Connectivity (1)
+    - Bed size smaller than expected
+**12. Poor WiFi Connectivity (1)**
 
-- Weak WiFi signal strength
-- Fluctuating or unstable WiFi connectivity
-13. Lack of Drinking Water Facilities (1)
+    - Weak WiFi signal strength
+    - Fluctuating or unstable WiFi connectivity
+**13. Lack of Drinking Water Facilities (1)**
 
-- No water heater available for drinking water
-14. Room Lighting Issues (1)
+    - No water heater available for drinking water
+**14. Room Lighting Issues (1)**
 
-- excessive natural light entering the room causing discomfort
-15. Lack of Onsite Food Amenities (1)
+    - excessive natural light entering the room causing discomfort
+**15. Lack of Onsite Food Amenities (1)**
 
-- No cafeteria for coffee
-- No breakfast facilities available
-16. Room Location Issues (1)
+    - No cafeteria for coffee
+    - No breakfast facilities available
+**16. Room Location Issues (1)**
 
-- Assigned upper floor instead of requested lower floor
+    - Assigned upper floor instead of requested lower floor
+<br>
+<br>
+
+
+---
+# Discussion of Problems
+---
 ## Problem #1: Remote Location and Transport Issues (2)
 
 The problems relate to the hotel's inconvenient location far from the town center and difficulties guests face in securing transportation to reach town amenities.
